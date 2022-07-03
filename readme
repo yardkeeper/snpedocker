@@ -1,0 +1,1 @@
+/home/user/snpe-1.61.0.3358/bin/x86_64-linux-clang/snpe-pytorch-to-dlc --input_network /home/user/Downloads/resnet18.pt --input_dim input "1,3,640,360" --output_path  /home/user/Downloads/test.dlc
